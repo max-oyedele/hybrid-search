@@ -1,4 +1,4 @@
-# MemFree
+# Memfree
 
 <a href="https://www.memfree.me">
   <img alt="MemFree – Hybrid AI Search Engine" src=".assets/memfree-ai-search.gif" width="100%">
@@ -33,108 +33,108 @@
 
 <br/>
 
-## Was ist MemFree
+## Was ist der Memfree
 
-MemFree ist ein<b>Hybride KI-Suchmaschine</b>.
+Memfree ist a<b>Hybrid -AI -Suchmaschine</b>.
 
-Mit MemFree können Sie sofort präzise Antworten aus Ihrer Wissensdatenbank und dem gesamten Internet erhalten.
+Mit Memfree können Sie sofort genaue Antworten von Ihrer Wissensbasis und dem gesamten Internet erhalten.
 
-MemFree ist ein<b>AI-Seitengenerator</b>.
+MemFree is an <b>AI -Seitengenerator</b>.
 
-Memfree nutzt das leistungsstärkste KI-Modell – Claude 3.5 Sonnet und das beliebteste Front-End-Framework – React + Tailwind + Shadcn UI, um in Sekundenschnelle produktionsbereite UI-Seiten für Sie zu generieren.
+Memfree verwendet das leistungsstärkste KI -Modell - Claude 3.5 -Sonett und das beliebteste Front -End -Front -Framework - React + Tailwind + Shadcn UI, um produktionsbereite UI -Seiten für Sie in Sekunden zu erzeugen.
 
-[PageGen – KI-Seitengenerator](https://pagegen.ai/).
+[Pagegen - AI -Seitengenerator](https://pagegen.ai/).
 
-## Was macht MemFree wertvoll?
+## Was macht Memfree wertvoll?
 
--   **Effizientes Wissensmanagement**: MemFree macht die manuelle Organisation von Notizen, Lesezeichen und Dokumenten überflüssig. Wenn Sie Informationen benötigen, suchen Sie einfach in MemFree, um schnell relevante Antworten zu finden, was Ihren Speicher frei macht und die Produktivität steigert.
--   **Zeitsparende KI-Zusammenfassungen**: Anstatt sich durch mehrere Google-Suchergebnisse zu klicken, nutzt MemFree KI, um sofort die besten Inhalte von Webseiten und Ihrer Wissensdatenbank zusammenzufassen und so wertvolle Zeit zu sparen.
--   **Kostengünstige Lösung**: Vermeiden Sie mehrere Abonnements für Dienste wie ChatGPT Plus, Claude Pro und Gemini Advanced. MemFree integriert deren Funktionalitäten und reduziert so die monatlichen Kosten erheblich.
--   **100x schnellere UI-Seitenerstellung**: Konvertieren Sie Text oder Bilder in Sekundenschnelle in beeindruckenden, produktionsbereiten Code. Visualisieren Sie Ihre Designs während der Erstellung. Veröffentlichen Sie Ihre Seiten nahtlos.
+-   **Effizientes Wissensmanagement**: Memfree eliminiert die Notwendigkeit einer manuellen Organisation von Notizen, Lesezeichen und Dokumenten. Wenn Sie Informationen benötigen, suchen Sie einfach in Memfree, um schnell relevante Antworten zu finden, Ihr Speicher zu befreien und die Produktivität zu steigern.
+-   **Zeitsparende KI-Zusammenfassungen**: Anstatt mehrere Google -Suchergebnisse zu klicken, verwendet Memfree AI, um die besten Inhalte von Webseiten und Ihrer Wissensbasis sofort zusammenzufassen und wertvolle Zeit zu speichern.
+-   **Kostengünstige Lösung**: Vermeiden Sie mehrere Abonnements für Dienste wie Chatgpt Plus, Claude Pro und Gemini Advanced. Memfree integriert ihre Funktionen und senkt die monatlichen Kosten erheblich.
+-   **100x schnellere UI -Seitenerstellung**: Konvertieren Sie Text oder Bilder in Sekundenschnelle in einen atemberaubenden, produktionsbereiten Code, visualisieren Sie Ihre Designs, während Sie erstellt und Ihre Seiten nahtlos veröffentlichen.
 
-## MemFree Hybrid AI-Suchfunktionen
+## Memfree Hybrid AI -Suchfunktionen
 
-MemFree ist mit leistungsstarken Funktionen ausgestattet, die verschiedene Such- und Produktivitätsanforderungen erfüllen:
+Memfree ist mit leistungsstarken Funktionen ausgestattet, die auf verschiedene Such- und Produktivitätsanforderungen gerecht werden:
 
--   🤖**Mehrere KI-Modelle**: Integriert ChatGPT, Claude und Gemini für verschiedene KI-Funktionen.
+-   🤖**Mehrere KI -Modelle**: Integriert Chatgpt, Claude und Gemini für verschiedene KI -Fähigkeiten.
 
--   🌐**Mehrere Suchmaschinen werden unterstützt**: Funktioniert mit Google, Exa und Vector.
+-   🌐**Mehrere Suchmaschinen unterstützt**: Arbeitet mit Google, Exa und Vector.
 
--   🖼️**Mehrere Sucheingabeformate**: Insbesondere Texte, Bilder, Dateien und Webseiten. Unterstützt die Suche, den Vergleich, die Zusammenfassung und die Analyse mehrerer Bilder.
+-   🖼️**Mehrfaches Sucheingangsformat**: Text, Bilder, Dateien und Webseiten, insbesondere sie unterstützt Multi-Image-Suche, Vergleich, Zusammenfassung und Analyse.
 
--   📊**Mehrere Methoden zur Ergebnispräsentation**: Text, Mindmaps, Bilder und Videos.
+-   📊**Mehrere Ergebnisse Präsentationsmethoden**: Text, Mind Maps, Bilder und Videos.
 
--   📄**Kompatibilität mit lokalen Dateiformaten**: Unterstützt Text-, PDF-, Docx-, PPTX- und Markdown-Dateien.
+-   📄**Lokale Dateiformatkompatibilität**: Unterstützt Text-, PDF-, DOCX-, PPTX- und Markdown -Dateien.
 
--   🔄**Geräteübergreifende Synchronisierung**: Suchverlauf auf mehreren Geräten speichern und synchronisieren.
+-   🔄**Synchronisation überkreuzte Geräte**: Speichern und synchronisieren Sie den Suchverlauf auf mehreren Geräten.
 
--   🌍**Mehrsprachige Unterstützung**: Verfügbar in Englisch, Chinesisch, Deutsch, Französisch, Spanisch, Japanisch und Arabisch.
+-   🌍**Multisprachiger Unterstützung**: Erhältlich in Englisch, Chinesisch, Deutsch, Französisch, Spanisch, Japanisch und Arabisch.
 
--   🔗**Chrome-Lesezeichen-Synchronisierung**: Synchronisierung und Indizierung mit einem Klick.
+-   🔗**Chrome Lesezeichen Synchronisierung**: Ein-Klick-Synchronisation und -indexierung.
 
--   📤**Ergebnisfreigabe**: Teilen Sie ganz einfach Ihre Suchergebnisse.
+-   📤**Ergebnisfreigabe**: Teilen Sie Ihre Suchfund einfach.
 
--   🔍**Kontextuelle kontinuierliche Suche**: Nahtlose Suche basierend auf dem Kontext.
+-   🔍**Kontextuelle kontinuierliche Suche**: Seamlos suchen basierend auf dem Kontext.
 
--   ⚙️**Automatische Websuchentscheidungen**: Bestimmt automatisch, wann Internetsuchen durchgeführt werden sollen.
+-   ⚙️**Automatische Websuchentscheidungen**: Bestimmt automatisch, wann Internet -Suche durchgeführt wird.
 
-## Funktionen des MemFree AI UI Generators
+## Memfree AI UI -Generatorfunktionen
 
--   **🖥️ Echtzeit-UI-Vorschau**: Generierte Benutzeroberfläche sofort rendern und in der Vorschau anzeigen
--   **🔍 KI-gestützte Inhaltssuche**: Bereichern Sie Ihre Benutzeroberfläche mit relevanten Inhalten mithilfe unserer erweiterten KI-Suchfunktion
--   **🖼 Bildgesteuerte UI-Generierung**: Erstellen Sie UI-Komponenten und Seiten, die Ihren Referenzbildern genau entsprechen
--   **📄 Datei-zu-Seite-Generierung**: Verwandeln Sie jeden Dateiinhalt in eine schön strukturierte Webseite mit KI-Analyse und KI-Zusammenfassung
--   **✏️ Code-Editor-Integration**: Bearbeiten und verfeinern Sie Ihren generierten Code mit VSCode-ähnlichen Bearbeitungsfunktionen, einschließlich Syntaxhervorhebung und automatischer Vervollständigung
--   **✨ Animationsunterstützung**: Erstellen Sie ansprechende Webseiten mit integrierten Animationseffekten und erwecken Sie Ihre Inhalte mit sanften Übergängen und dynamischen Elementen zum Leben
--   **⚛️ React + TailWind + Shadcn UI-Integration**: Nutzen Sie KI-generierten Code mit dem beliebtesten Front-End-Stack: React, TailWind und Shadcn UI
--   **🚀 One-Click-UI-Veröffentlichung**: Veröffentlichen und teilen Sie Ihre Benutzeroberfläche sofort mit einem einzigen Klick im Web
--   **📱 Responsiver Code und Vorschau**: Sehen Sie sich Ihre Benutzeroberfläche in Echtzeit auf verschiedenen Geräten an und sorgen Sie so für eine perfekte Anpassung an alle Bildschirmgrößen
--   **🌓 Dark-Mode-Code und Vorschau**: Generieren Sie mühelos KI-gestützten UI-Code mit integrierter Unterstützung für den Dunkelmodus, sodass Sie sofort eine Vorschau sowohl des Hell- als auch des Dunkelmodus anzeigen können
--   **📸 UI-Screenshot-Export**: Exportieren und teilen Sie Ihre UI-Designs ganz einfach als hochwertige Screenshots für eine nahtlose Zusammenarbeit
--   **🛠️ Intelligente Fehlerkorrektur**: Während das fortschrittliche KI-Modell und die ausgefeilten Coderegeln von MemFree nach Perfektion streben, können gelegentlich Fehler auftreten. Mit unserer intelligenten Fehlerkorrekturfunktion können Sie alle Probleme sofort mit nur einem Klick beheben
+-   **🖥️ Echtzeit-UI-Vorschau**: Sofort rendern und vorschau erzeugte Benutzeroberfläche
+-   **🔍 AI-betriebene Inhaltssuche**: Bereichen Ihre Benutzeroberfläche mit relevanten Inhalten mithilfe unserer erweiterten KI -Suchfunktion an
+-   **🖼 Bildgetriebene UI-Generation**: Erstellen Sie UI -Komponenten und Seiten, die Ihren Referenzbildern genau entsprechen
+-   **📄 Datei-zu-Seiten-Erzeugung**: Verwandeln Sie alle Dateiinhalte in eine wunderschön strukturierte Webseite mit KI -Parsen und KI -Zusammenfassung
+-   **✏️ Code -Editor -Integration**: Bearbeiten und verfeinern Sie Ihren generierten Code mit VSCODE-ähnlichen Bearbeitungsfunktionen mit Syntax-Hervorhebung und automatischer Vervollständigung
+-   **✨ Animationsunterstützung**: Erstellen Sie ansprechende Webseiten mit integrierten Animationseffekten und erwecken Ihre Inhalte mit reibungslosen Übergängen und dynamischen Elementen zum Leben
+-   **⚛️ React + Rückenwind + Shadcn UI -Integration**: Hebel-Ai-Generat-Code mit dem beliebtesten Front-End-Stapel: Reagieren, Rückenwind und Shadcn UI
+-   **🚀 Ein-Klick-UI-Veröffentlichung**: Veröffentlichen und teilen Sie Ihre Benutzeroberfläche sofort mit einem einzigen Klick im Web
+-   **📱 Reaktionsschnurcode und Vorschau**: Vorschau Ihrer Benutzeroberfläche über verschiedene Geräte in Echtzeit vorschau
+-   **🌓 Code und Vorschau dunkler Modus**: Erzeugen Sie mühelos KI-betriebene UI-Code mit integriertem dunklem Modusunterstützung, sodass Sie sofort hell- und dunkle Modi vorschauten
+-   **📸 UI Screenshot Export**: Seichten Exportieren und teilen Sie Ihre UI-Designs als hochwertige Screenshots für die nahtlose Zusammenarbeit
+-   **🛠️ Smart Fehlerkorrektur**: Während das fortschrittliche KI -Modell von Memfree und ausgefeilte Code -Regeln nach Perfektion streben, können gelegentliche Fehler auftreten. Mit unserer Funktion für Smart -Fehlerkorrekturen können Sie Probleme mit nur einem Klick sofort beheben
 
-## MemFree Hybrid AI Search Workflow
+## Memfree Hybrid AI -Such -Workflow
 
 <img alt="MemFree Hybrid AI Search workflow" src="frontend/public/memfree-hybrid-ai-search.webp" width="100%">
 
-## ChangeLog
+## Changelog
 
-[MemFree ChangeLog](https://www.memfree.me/changelog)
+[Memfree Changelog](https://www.memfree.me/changelog)
 
-## Tech-Stack
+## Tech Stack
 
-[Hybride KI-Suche, vollständiger Tech-Stack](https://www.memfree.me/blog/hybrid-ai-search-tech-stack)
+[Hybrid AI -Suche Volltechnologie -Stack](https://www.memfree.me/blog/hybrid-ai-search-tech-stack)
 
-## One-Click-Bereitstellung
+## Ein-Klick-Bereitstellung
 
-[Anleitung zur MemFree One-Click-Bereitstellung](https://www.memfree.me/docs/one-click-deploy-ai-search)
+[Memfree One-Click-Bereitstellungshandbuch](https://www.memfree.me/docs/one-click-deploy-ai-search)
 
-### 1 Backend mit Zeabur bereitstellen
+### 1 Backend mit Zeabur einsetzen
 
 <a href="https://zeabur.com/templates/CE71SC?referralCode=memfree"><img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur"/></a>
 
-### 2 Stellen Sie das Frontend mit Vercel bereit
+### 2 Frontend mit Vercel einsetzen
 
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmemfreeme%2Fmemfree&env=UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN,OPENAI_API_KEY,MEMFREE_HOST,AUTH_SECRET,API_TOKEN&envDescription=https%3A%2F%2Fgithub.com%2Fmemfreeme%2Fmemfree%2Fblob%2Fmain%2Ffrontend%2Fenv-example&project-name=memfree&repository-name=memfree&demo-title=MemFree&demo-description=MemFree – Hybrid AI Search Engine&demo-url=https%3A%2F%2Fwww.memfree.me%2F&demo-image=https%3A%2F%2Fwww.memfree.me%2Fog.png&root-directory=frontend"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 
-### 3 Stellen Sie das Frontend mit Netlify bereit
+### 3 Frontend mit netlify einsetzen
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/memfreeme/memfree&create_from_path=frontend/#UPSTASH_REDIS_REST_TOKEN
 =your_api_token&UPSTASH_REDIS_REST_URL=your_rest_url&SERPER_API_KEY=your_api_key&AUTH_SECRET=your_auth_key&OPENAI_API_KEY=your_api_key"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
-### 4 Einsatz auf der Schiene
+### 4 Auf der Eisenbahn einsetzen
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/HPTFRR)
 
-### 5 One Command Deploy Backend mit Fly.io
+### 5 Ein Befehls -Backend mit fly.io bereitstellen
 
--   [Ein Befehl: Bereitstellen von MemFree Vector auf Fly.io](https://www.memfree.me/docs/deploy-memfree-fly-io)
+-   [Ein Befehl bereitzustellen memfree vector auf fly.io](https://www.memfree.me/docs/deploy-memfree-fly-io)
 
-### 6 Stellen Sie MemFree auf Cloudflare-Seiten bereit
+### 6 Memfree auf Cloudflare -Seiten bereitstellen
 
--   [Weitere Informationen zur Migration von MemFree von Vercel zu Cloudflare finden Sie auf den nächsten Seiten](https://www.memfree.me/blog/couldflare-next-on-page-edge)
+-   [Wie man memfree von Vercel zu Cloudflare nächste auf den Seiten migriert](https://www.memfree.me/blog/couldflare-next-on-page-edge)
 
-## Selbstgehostete Installationen
+## Selbst gehostete Installationen
 
 ### Voraussetzungen
 
@@ -142,21 +142,21 @@ MemFree ist mit leistungsstarken Funktionen ausgestattet, die verschiedene Such-
 
     curl -fsSL https://bun.sh/install | bash
 
-> Fehler „Brötchen nicht gefunden“.
+> Brötchen kein Fehler gefunden
 
-Wenn Sie eine Fehlermeldung erhalten, die sich darauf bezieht, dass der Bun-Befehl nicht gefunden wurde. Schauen Sie sich Folgendes an:[Offizielle Bun-Dokumentation](https://bun.sh/docs/installation#checking-installation)
+Wenn Sie einen Fehler in Bezug auf den Befehl Bun erhalten, der nicht gefunden wurde. Schauen Sie sich das an:[Bun Offizielle Dokumentation](https://bun.sh/docs/installation#checking-installation)
 
 #### Upstash Redis
 
-Erstellen Sie in Sekundenschnelle eine Redis-kompatible Datenbank:[Upstash Redis](https://upstash.com/docs/redis/overall/getstarted)
+Erstellen Sie in Sekunden einen Redis -kompatiblen Datenbank:[Upstash Redis](https://upstash.com/docs/redis/overall/getstarted)
 
-#### OpenAI-API-Schlüssel
+#### OpenAI -API -Schlüssel
 
-Holen Sie sich einen OpenAI-API-Schlüssel:[OpenAI](https://platform.openai.com)
+Holen Sie sich einen OpenAI -API -Schlüssel:[Openai](https://platform.openai.com)
 
-#### Serper-API-Schlüssel
+#### Serper -API -Schlüssel
 
-Holen Sie sich einen Serper-API-Schlüssel:[Serper](https://serper.dev/api-key)
+Holen Sie sich einen Serper -API -Schlüssel:[Schlangen](https://serper.dev/api-key)
 
 ### Frontend
 
@@ -182,12 +182,12 @@ Holen Sie sich einen Serper-API-Schlüssel:[Serper](https://serper.dev/api-key)
 
     bun run index.ts
 
-## Mitwirken
+## Beitragen
 
-So können Sie einen Beitrag leisten:
+So können Sie dazu beitragen:
 
--   [Öffnen Sie ein Problem](https://github.com/memfreeme/memfree/issues)wenn Sie glauben, dass Sie auf einen Fehler gestoßen sind.
--   Machen Sie ein[Pull-Anfrage](https://github.com/memfreeme/memfree/pulls)um neue Funktionen hinzuzufügen/die Lebensqualität zu verbessern/Fehler zu beheben.
+-   [Ein Problem öffnen](https://github.com/memfreeme/memfree/issues)Wenn Sie glauben, dass Sie auf einen Fehler gestoßen sind.
+-   Machen a[Anfrage ziehen](https://github.com/memfreeme/memfree/pulls)Um neue Funktionen hinzuzufügen/Verbesserungen/Behebungsfehler durchzuführen.
 
 ## Vielen Dank an alle Mitwirkenden
 
@@ -197,25 +197,25 @@ So können Sie einen Beitrag leisten:
  </a>
 </p>
 
-## Hilfe und Support
+## Hilfe und Unterstützung
 
--   [MemFree Discord](https://discord.com/invite/7QqyMSTaRq)
+-   [Memfree Discord](https://discord.com/invite/7QqyMSTaRq)
 
 ## Roadmap
 
--   [MemFree-Roadmap](https://www.memfree.me/roadmap)
+-   [Memfree Roadmap](https://www.memfree.me/roadmap)
 
 ## Lizenz
 
-MemFree wird unterstützt von[MemFree](https://www.memfree.me/)und lizenziert unter[MIT](https://github.com/memfreeme/memfree/blob/main/LICENSE).
+Memfree wird von unterstützt von[Memfree](https://www.memfree.me/)und lizenziert unter[MIT](https://github.com/memfreeme/memfree/blob/main/LICENSE).
 
-## Unterstützt von MemFree
+## Angetrieben von memfree
 
--   [PageGen – KI-Seitengenerator](https://pagegen.ai)
--   [MemFree – Hybride KI-Suche](https://www.memfree.me)
--   [StorySnap – Verwandeln Sie Bilder in Geschichten](https://www.snapstoryai.com)
--   [React + Shadcn UI-Vorschau](https://reactshadcn.com)
+-   [Pagegen - AI -Seitengenerator](https://pagegen.ai)
+-   [Memfree - Hybrid -KI -Suche](https://www.memfree.me)
+-   [StorysNap - Bilder in Geschichten verwandeln](https://www.snapstoryai.com)
+-   [React + Shadcn UI Vorschau](https://reactshadcn.com)
 
-## Sternengeschichte
+## Sterngeschichte
 
 [![Star History Chart](https://api.star-history.com/svg?repos=memfreeme/memfree&type=Date)](https://star-history.com/#memfreeme/memfree&Date)
