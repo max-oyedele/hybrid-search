@@ -1,4 +1,4 @@
-# メムフリー
+# memfree
 
 <a href="https://www.memfree.me">
   <img alt="MemFree – Hybrid AI Search Engine" src=".assets/memfree-ai-search.gif" width="100%">
@@ -33,130 +33,130 @@
 
 <br/>
 
-## メムフリーとは
+## memfreeは何ですか
 
-メムフリーは、<b>ハイブリッドAI検索エンジン</b>.
+memfreeはaです<b>ハイブリッドAI検索エンジン</b>.
 
-MemFree を使用すると、ナレッジ ベースやインターネット全体から正確な回答を即座に得ることができます。
+MemFreeを使用すると、知識ベースとインターネット全体からすぐに正確な回答を得ることができます。
 
-MemFree は、<b>AIページジェネレーター</b>.
+memfreeはです<b>AIページジェネレーター</b>.
 
-Memfree は、最も強力な AI モデルである Claude 3.5 Sonnet と、最も人気のあるフロントエンド フレームワークである React + Tailwind + Shadcn UI を使用して、本番環境に対応した UI ページを数秒で生成します。
+Memfree uses the most powerful AI model - Claude 3.5 Sonnet and the most popular front-end framework - React + Tailwind + Shadcn UI to generate production-ready UI pages for you in seconds.
 
-[PageGen - AI ページジェネレーター](https://pagegen.ai/).
+[PageGen -AIページジェネレーター](https://pagegen.ai/).
 
-## MemFree の価値は何ですか?
+## 何がmemfreeを貴重にしているのですか？
 
--   **効率的なナレッジ管理**: MemFree を使用すると、メモ、ブックマーク、ドキュメントを手動で整理する必要がなくなります。情報が必要な場合は、MemFree 内を検索するだけで関連する回答がすぐに見つかり、メモリが解放され、生産性が向上します。
--   **時間を節約する AI サマリー**: MemFree は、複数の Google 検索結果をクリックする代わりに、AI を使用して Web ページやナレッジ ベースから最適なコンテンツを即座に要約し、貴重な時間を節約します。
--   **費用対効果の高いソリューション**: ChatGPT Plus、Claude Pro、Gemini Advanced などのサービスへの複数のサブスクリプションは避けてください。 MemFree はそれらの機能を統合し、月々のコストを大幅に削減します。
--   **100 倍高速な UI ページ作成**: テキストや画像を数秒で素晴らしい、本番環境に対応したコードに変換し、デザインを作成しながら視覚化し、ページをシームレスに公開します。
+-   **効率的な知識管理**：MemFreeは、メモ、ブックマーク、およびドキュメントの手動組織の必要性を排除します。情報が必要な場合は、MemFree内で検索して、関連する回答をすばやく見つけ、メモリを解放し、生産性を高めます。
+-   **時間節約AI要約**：MemFreeは、複数のGoogle検索結果をクリックする代わりに、AIを使用してWebページとナレッジベースの最高のコンテンツを即座に要約して、貴重な時間を節約します。
+-   **費用対効果の高いソリューション**：ChatGpt Plus、Claude Pro、Gemini Advancedなどのサービスへの複数のサブスクリプションを避けてください。 MemFreeは機能を統合し、毎月のコストを大幅に削減します。
+-   **100倍高速のUIページ作成**：テキストまたは画像を見事な制作可能なコードに数秒で変換し、作成時にデザインを視覚化し、ページをシームレスに公開します。
 
-## MemFree ハイブリッド AI 検索機能
+## MemFreeハイブリッドAI検索機能
 
-MemFree には、さまざまな検索と生産性のニーズに応える強力な機能が装備されています。
+MemFreeには、さまざまな検索と生産性のニーズに応える強力な機能が装備されています。
 
--   🤖**複数の AI モデル**: ChatGPT、Claude、Gemini を統合して、多様な AI 機能を実現します。
+-   🤖**複数のAIモデル**：多様なAI機能のために、ChatGpt、Claude、およびGeminiを統合します。
 
--   🌐**複数の検索エンジンをサポート**: Google、Exa、Vector で動作します。
+-   🌐**複数の検索エンジンがサポートされています**：Google、Exa、およびVectorで動作します。
 
--   🖼️**複数検索の入力形式**: テキスト、画像、ファイル、Web ページ、特に複数画像の検索、比較、要約、分析をサポートします。
+-   🖼️**複数の検索入力形式**：テキスト、画像、ファイル、およびWebページ、特にマルチイメージの検索、比較、要約、および分析をサポートします。
 
--   📊**複数の結果の表示方法**: テキスト、マインド マップ、画像、ビデオ。
+-   📊**複数の結果プレゼンテーション方法**：テキスト、マインドマップ、画像、ビデオ。
 
--   📄**ローカルファイル形式の互換性**: テキスト、PDF、Docx、PPTX、Markdown ファイルをサポートします。
+-   📄**ローカルファイル形式の互換性**：テキスト、PDF、DOCX、PPTX、およびMarkDownファイルをサポートします。
 
--   🔄**クロスデバイス同期**: 検索履歴を保存し、複数のデバイス間で同期します。
+-   🔄**クロスデバイス同期**：複数のデバイスで検索履歴を保存および同期します。
 
--   🌍**多言語サポート**: 英語、中国語、ドイツ語、フランス語、スペイン語、日本語、アラビア語で利用可能です。
+-   🌍**多言語サポート**：英語、中国語、ドイツ語、フランス語、スペイン語、日本語、アラビア語で利用できます。
 
--   🔗**Chrome ブックマークの同期**: ワンクリックで同期とインデックス作成。
+-   🔗**Chromeブックマーク同期**：ワンクリック同期とインデックス。
 
--   📤**結果の共有**: 検索結果を簡単に共有します。
+-   📤**結果共有**：検索結果を簡単に共有してください。
 
--   🔍**コンテキストに応じた継続的検索**: コンテキストに基づいてシームレスに検索します。
+-   🔍**コンテキストの連続検索**：コンテキストに基づいてシームレスに検索します。
 
--   ⚙️**Web 検索の自動決定**：インターネット検索を実行するタイミングを自動的に決定します。
+-   ⚙️**自動Web検索の決定**：インターネット検索をいつ実行するかを自動的に決定します。
 
-## MemFree AI UI ジェネレーターの機能
+## MemFree AI UIジェネレーター機能
 
--   **🖥️ リアルタイム UI プレビュー**: 生成された UI を即座にレンダリングしてプレビューします
--   **🔍 AI を活用したコンテンツ検索**: 高度な AI 検索機能を使用して、関連コンテンツで UI を強化します。
--   **🖼 画像主導の UI 生成**: 参照画像に厳密に一致する UI コンポーネントとページを作成します
--   **📄 ファイルからページへの生成**: AI 解析と AI サマリーを使用して、あらゆるファイル コンテンツを美しく構造化された Web ページに変換します。
--   **✏️ コードエディターの統合**: VSCode のような編集機能を使用して、生成されたコードを編集および調整し、構文のハイライトとオートコンプリートを備えます。
--   **✨アニメーションサポート**: 組み込みのアニメーション効果を使用して魅力的な Web ページを作成し、スムーズなトランジションと動的な要素でコンテンツに命を吹き込みます。
--   **⚛️ React + TailWind + Shadcn UI 統合**: 最も人気のあるフロントエンド スタック (React、TailWind、Shadcn UI) を使用して AI 生成コードを活用します。
--   **🚀 ワンクリック UI 公開**: ワンクリックで UI を即座に Web に公開して共有します
--   **📱 レスポンシブコードとプレビュー**: さまざまなデバイスで UI をリアルタイムでプレビューし、すべての画面サイズに完全に適応できるようにします。
--   **🌓 ダークモードのコードとプレビュー**: ダーク モード サポートが組み込まれた AI を活用した UI コードを簡単に生成し、ライト モードとダーク モードの両方を即座にプレビューできるようにします。
--   **📸 UI スクリーンショットのエクスポート**: UI デザインを高品質のスクリーンショットとして簡単にエクスポートして共有し、シームレスなコラボレーションを実現します
--   **🛠️ スマートなエラー修正**: MemFree の高度な AI モデルと洗練されたコード ルールは完璧を目指していますが、時折エラーが発生する可能性があります。スマートエラー修正機能により、ワンクリックで問題を即座に修正できます。
+-   **Real-Time UIプレビュー**：生成されたUIを即座にレンダリングおよびプレビューします
+-   **AI搭載コンテンツ検索**：高度なAI検索機能を使用して、関連するコンテンツでUIを豊かにする
+-   **🖼画像駆動型UI生成**：参照画像に密接に一致するUIコンポーネントとページを作成する
+-   **fileファイルからページへの生成**：任意のファイルコンテンツを、AI解析とAIの要約を使用して、美しく構造化されたWebページに変換します
+-   **Code®コードエディターの統合**：構文の強調表示と自動完了を備えたVSCODEのような編集機能で生成されたコードを編集および改良
+-   **✨アニメーションサポート**：組み込みのアニメーション効果を備えた魅力的なWebページを作成し、スムーズな移行と動的要素でコンテンツを実現する
+-   **⚛️React + Tailwind + Shadcn UI統合**：最も人気のあるフロントエンドスタックを使用して、AIに生成されたコードを活用してください：React、Tailwind、およびShadcn UI
+-   **🚀ワンクリックUIパブリッシング**：1回のクリックでUIを即座に公開して共有します
+-   **Responsiveコードとプレビュー**：さまざまなデバイスでUIをリアルタイムでプレビューし、すべての画面サイズに最適な適応を確保する
+-   **darkダークモードコードとプレビュー**：Light ModeとDarkモードの両方を即座にプレビューできるように、組み込みのダークモードサポートを備えたAI搭載のUIコードを簡単に生成します
+-   **📸UIスクリーンショットエクスポート**：シームレスなコラボレーションのための高品質のスクリーンショットとしてUIデザインを簡単にエクスポートして共有する
+-   **smartスマートエラー補正**：MemFreeの高度なAIモデルと洗練されたコードルールは、完璧を目指して努力していますが、時折エラーが発生する可能性があります。スマートエラー修正機能を使用すると、1回のクリックで問題を即座に修正できます
 
-## MemFree ハイブリッド AI 検索ワークフロー
+## MemFreeハイブリッドAI検索ワークフロー
 
 <img alt="MemFree Hybrid AI Search workflow" src="frontend/public/memfree-hybrid-ai-search.webp" width="100%">
 
-## 変更ログ
+## Changelog
 
-[MemFree 変更ログ](https://www.memfree.me/changelog)
+[memfree changelog](https://www.memfree.me/changelog)
 
 ## 技術スタック
 
-[ハイブリッド AI 検索フル テクノロジー スタック](https://www.memfree.me/blog/hybrid-ai-search-tech-stack)
+[ハイブリッドAI検索フルテックスタック](https://www.memfree.me/blog/hybrid-ai-search-tech-stack)
 
-## ワンクリック導入
+## ワンクリック展開
 
-[MemFree ワンクリック導入ガイド](https://www.memfree.me/docs/one-click-deploy-ai-search)
+[MemFreeワンクリック展開ガイド](https://www.memfree.me/docs/one-click-deploy-ai-search)
 
-### 1 Zeabur を使用してバックエンドをデプロイする
+### 1 Zeaburでバックエンドを展開します
 
 <a href="https://zeabur.com/templates/CE71SC?referralCode=memfree"><img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur"/></a>
 
-### 2 Vercel を使用してフロントエンドをデプロイする
+### 2 vercelを使用してフロントエンドを展開します
 
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmemfreeme%2Fmemfree&env=UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN,OPENAI_API_KEY,MEMFREE_HOST,AUTH_SECRET,API_TOKEN&envDescription=https%3A%2F%2Fgithub.com%2Fmemfreeme%2Fmemfree%2Fblob%2Fmain%2Ffrontend%2Fenv-example&project-name=memfree&repository-name=memfree&demo-title=MemFree&demo-description=MemFree – Hybrid AI Search Engine&demo-url=https%3A%2F%2Fwww.memfree.me%2F&demo-image=https%3A%2F%2Fwww.memfree.me%2Fog.png&root-directory=frontend"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 
-### 3 Netlify を使用してフロントエンドをデプロイする
+### 3 netlifyを使用してフロントエンドを展開します
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/memfreeme/memfree&create_from_path=frontend/#UPSTASH_REDIS_REST_TOKEN
 =your_api_token&UPSTASH_REDIS_REST_URL=your_rest_url&SERPER_API_KEY=your_api_key&AUTH_SECRET=your_auth_key&OPENAI_API_KEY=your_api_key"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
-### 4 鉄道への展開
+### 4鉄道に展開します
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/HPTFRR)
 
-### 5 Fly.io を使用して 1 つのコマンドでバックエンドをデプロイする
+### 5 fly.ioを使用してバックエンドを展開する1つのコマンド
 
--   [ワンコマンドで MemFree Vector を Fly.io にデプロイ](https://www.memfree.me/docs/deploy-memfree-fly-io)
+-   [fly.ioで1つのコマンドdememFree Vectorを展開します](https://www.memfree.me/docs/deploy-memfree-fly-io)
 
-### 6 CloudflareページにMemFreeをデプロイする
+### 6 CloudFlareページにMemFreeを展開します
 
--   [MemFree を Vercel から Cloudflare の次のページに移行する方法](https://www.memfree.me/blog/couldflare-next-on-page-edge)
+-   [MemFreeをVercelからCloudFlare Next-on-Pagesに移行する方法](https://www.memfree.me/blog/couldflare-next-on-page-edge)
 
-## セルフホスト型インストール
+## 自己ホストされたインストール
 
 ### 前提条件
 
-#### インストール良好
+#### 良いインストール
 
     curl -fsSL https://bun.sh/install | bash
 
-> パンが見つからないエラー
+> パンが見つかりませんエラー
 
-bun コマンドが見つからないというエラーが発生した場合。以下をチェックしてください:[Bun 公式ドキュメント](https://bun.sh/docs/installation#checking-installation)
+BUNコマンドに関連するエラーが見つかった場合。をチェックしてください：[パン公式文書](https://bun.sh/docs/installation#checking-installation)
 
-#### Upstash Redis
+#### RedisをUpstash
 
-Redis 互換データベースを数秒で作成します。[Upstash Redis](https://upstash.com/docs/redis/overall/getstarted)
+Redis互換性のあるデータベースを数秒で作成します。[RedisをUpstash](https://upstash.com/docs/redis/overall/getstarted)
 
-#### OpenAI APIキー
+#### Openai APIキー
 
-OpenAI API キーを取得します。[OpenAI](https://platform.openai.com)
+Openai APIキーを取得します：[Openai](https://platform.openai.com)
 
-#### サーバー API キー
+#### SERPER APIキー
 
-Serper API キーを取得します。[サーペル](https://serper.dev/api-key)
+SERPERAPIキーを取得します：[セルパー](https://serper.dev/api-key)
 
 ### フロントエンド
 
@@ -182,12 +182,12 @@ Serper API キーを取得します。[サーペル](https://serper.dev/api-key)
 
     bun run index.ts
 
-## 貢献する
+## 貢献
 
 貢献する方法は次のとおりです。
 
--   [問題を開く](https://github.com/memfreeme/memfree/issues)バグに遭遇したと思われる場合。
--   を作る[プルリクエスト](https://github.com/memfreeme/memfree/pulls)新機能の追加/生活の質の向上/バグの修正。
+-   [問題を開きます](https://github.com/memfreeme/memfree/issues)バグに遭遇したと思われる場合。
+-   a[リクエストをプルします](https://github.com/memfreeme/memfree/pulls)新機能を追加/生活の質の向上/バグを修正するには。
 
 ## すべての貢献者に感謝します
 
@@ -197,25 +197,25 @@ Serper API キーを取得します。[サーペル](https://serper.dev/api-key)
  </a>
 </p>
 
-## ヘルプとサポート
+## 助けとサポート
 
--   [MemFree ディスコード](https://discord.com/invite/7QqyMSTaRq)
+-   [memfree scord](https://discord.com/invite/7QqyMSTaRq)
 
 ## ロードマップ
 
--   [MemFree ロードマップ](https://www.memfree.me/roadmap)
+-   [MemFreeロードマップ](https://www.memfree.me/roadmap)
 
 ## ライセンス
 
-MemFree を支援しているのは、[メムフリー](https://www.memfree.me/)そして以下にライセンスされています[と](https://github.com/memfreeme/memfree/blob/main/LICENSE).
+MemFreeはバックアップされています[memfree](https://www.memfree.me/)およびライセンスを取得しました[と](https://github.com/memfreeme/memfree/blob/main/LICENSE).
 
-## メモリフリーによる提供
+## memfreeを搭載
 
--   [PageGen - AI ページジェネレーター](https://pagegen.ai)
--   [MemFree - ハイブリッド AI 検索](https://www.memfree.me)
--   [StorySnap - 画像をストーリーに変える](https://www.snapstoryai.com)
--   [React + Shadcn UI プレビュー](https://reactshadcn.com)
+-   [PageGen -AIページジェネレーター](https://pagegen.ai)
+-   [MemFree -Hybrid AI検索](https://www.memfree.me)
+-   [Storysnap-画像をストーリーに変えます](https://www.snapstoryai.com)
+-   [React + Shadcn UIプレビュー](https://reactshadcn.com)
 
-## スターの歴史
+## 星の歴史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=memfreeme/memfree&type=Date)](https://star-history.com/#memfreeme/memfree&Date)
