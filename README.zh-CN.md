@@ -1,4 +1,4 @@
-# 内存自由
+# 备忘录
 
 <a href="https://www.memfree.me">
   <img alt="MemFree – Hybrid AI Search Engine" src=".assets/memfree-ai-search.gif" width="100%">
@@ -33,130 +33,130 @@
 
 <br/>
 
-## 什么是MemFree
+## 什么是模因
 
-MemFree 是一个<b>混合人工智能搜索引擎</b>.
+memfree是一个<b>混合AI搜索引擎</b>.
 
-借助 MemFree，您可以立即从您的知识库和整个互联网中获得准确的答案。
+有了memfree，您可以立即从知识库和整个互联网上获得准确的答案。
 
-MemFree 是一个<b>人工智能页面生成器</b>.
+memfree是一个<b>AI页生成器</b>.
 
-Memfree 使用最强大的 AI 模型 - Claude 3.5 Sonnet 和最流行的前端框架 - React + Tailwind + Shadcn UI 在几秒钟内为您生成可用于生产的 UI 页面。
+Memfree使用最强大的AI型号 -  Claude 3.5十四行诗和最受欢迎的前端框架 -  React + Tailwind + ShadCN UI在几秒钟内为您生成了生产的UI页面。
 
-[PageGen - AI 页面生成器](https://pagegen.ai/).
+[PageGen -AI页生成器](https://pagegen.ai/).
 
-## 是什么让 MemFree 有价值？
+## 是什么使Memfree有价值？
 
--   **高效的知识管理**：MemFree 消除了手动组织笔记、书签和文档的需要。当您需要信息时，只需在 MemFree 中搜索即可快速找到相关答案，从而释放您的内存并提高工作效率。
--   **节省时间的人工智能摘要**：MemFree 无需点击多个 Google 搜索结果，而是使用 AI 立即总结网页和知识库中的最佳内容，从而节省宝贵的时间。
--   **经济高效的解决方案**：避免多次订阅 ChatGPT Plus、Claude Pro 和 Gemini Advanced 等服务。 MemFree 集成了它们的功能，显着降低了每月的成本。
--   **UI 页面创建速度提高 100 倍**：在几秒钟内将文本或图像转换为令人惊叹的、可用于生产的代码，在创建时可视化您的设计，无缝发布您的页面。
+-   **有效的知识管理**：Memfree消除了对笔记，书签和文件的手动组织的需求。当您需要信息时，只需在memfree内搜索即可快速找到相关答案，释放您的内存并提高生产力。
+-   **节省时间的AI摘要**：Memfree没有单击多个Google搜索结果，而是使用AI立即总结了网页和您的知识库中最佳内容，从而节省了宝贵的时间。
+-   **具有成本效益的解决方案**：避免对Chatgpt Plus，Claude Pro和Gemini Advanced等服务的多个订阅。 Memfree整合其功能，大大降低了每月成本。
+-   **100倍更快的UI页面创建**：将文本或图像在几秒钟内将文本或图像转换为令人惊叹的生产准备代码，在创建时可视化设计，无缝发布页面。
 
-## MemFree 混合人工智能搜索功能
+## Memfree Hybrid AI搜索功能
 
-MemFree 配备强大的功能，可满足各种搜索和生产力需求：
+Memfree具有强大的功能，可满足各种搜索和生产力需求：
 
--   🤖**多种AI模型**：集成ChatGPT、Claude、Gemini等多种AI能力。
+-   🤖**多个AI模型**：集成了Chatgpt，Claude和Gemini，以提供多种AI功能。
 
--   🌐**支持多种搜索引擎**：适用于 Google、Exa 和 Vector。
+-   🌐**支持多个搜索引擎**：与Google，EXA和Vector合作。
 
--   🖼️**多种搜索输入格式**：文本、图片、文件、网页，特别支持多图搜索、比较、总结、分析。
+-   🖼️**多个搜索输入格式**：尤其是文本，图像，文件和网页，它支持多图像搜索，比较，摘要和分析。
 
--   📊**多种结果呈现方法**：文本、思维导图、图像和视频。
+-   📊**多种结果呈现方法**：文字，思维地图，图像和视频。
 
--   📄**本地文件格式兼容性**：支持文本、PDF、Docx、PPTX 和 Markdown 文件。
+-   📄**本地文件格式兼容性**：支持文本，PDF，DOCX，PPTX和Markdown文件。
 
--   🔄**跨设备同步**：跨多个设备保存和同步搜索历史记录。
+-   🔄**跨设备同步**：在多个设备上保存和同步搜索历史记录。
 
--   🌍**多语言支持**：提供英语、中文、德语、法语、西班牙语、日语和阿拉伯语版本。
+-   🌍**多语言支持**：有英语，中文，德语，法语，西班牙语，日语和阿拉伯语。
 
--   🔗**Chrome 书签同步**：一键同步和索引。
+-   🔗**Chrome Bookmark Sync**：一键同步和索引。
 
--   📤**成果分享**：轻松分享您的搜索结果。
+-   📤**结果共享**：轻松分享您的搜索结果。
 
 -   🔍**上下文连续搜索**：根据上下文无缝搜索。
 
--   ⚙️**自动网络搜索决策**：自动确定何时执行互联网搜索。
+-   ⚙️**自动网络搜索决策**：自动确定何时执行Internet搜索。
 
-## MemFree AI UI 生成器功能
+## memfree AI UI发电机功能
 
--   **🖥️ 实时 UI 预览**：即时渲染并预览生成的 UI
--   **🔍 AI 支持的内容搜索**：使用我们先进的人工智能搜索功能，用相关内容丰富您的用户界面
--   **🖼 图像驱动的 UI 生成**：创建与您的参考图像紧密匹配的 UI 组件和页面
--   **📄 文件到页面生成**：通过AI解析和AI摘要将任何文件内容转换为结构精美的网页
--   **✏️ 代码编辑器集成**：使用类似 VSCode 的编辑功能编辑和优化生成的代码，并具有语法突出显示和自动完成功能
--   **✨ 动画支持**：创建具有内置动画效果的引人入胜的网页，通过平滑的过渡和动态元素使您的内容栩栩如生
--   **⚛️ React + TailWind + Shadcn UI 集成**：使用最流行的前端堆栈利用人工智能生成的代码：React、TailWind 和 Shadcn UI
--   **🚀 一键式 UI 发布**：只需单击一下即可立即将您的 UI 发布并共享到网络上
--   **📱 响应式代码和预览**：在各种设备上实时预览您的UI，确保完美适应所有屏幕尺寸
--   **🌓 深色模式代码和预览**：轻松生成人工智能驱动的 UI 代码，并内置深色模式支持，让您可以立即预览浅色和深色模式
--   **📸 UI 截图导出**：轻松导出并共享您的 UI 设计作为高质量的屏幕截图，以实现无缝协作
--   **🛠️智能纠错**：虽然MemFree先进的AI模型和复杂的代码规则力求完美，但偶尔也可能会出现错误。我们的智能纠错功能让您只需一键点击即可立即修复任何问题
+-   **🖥测试实时UI预览**：立即渲染并预览产生的UI
+-   **🔍AI驱动的内容搜索**：使用我们的高级AI搜索功能，用相关内容丰富您的UI
+-   **🖼图像驱动的UI世代**：创建与您的参考图像紧密匹配的UI组件和页面
+-   **📄文件到页面生成**：将任何文件内容转换为带有AI解析和AI摘要的完美结构化网页
+-   **✏️代码编辑器集成**：使用类似Vscode的编辑功能编辑和完善生成的代码，并配有语法突出显示和自动完成
+-   **✨动画支持**：创建具有内置动画效果的引人入胜的网页，通过平稳的过渡和动态元素使您的内容栩栩如生
+-   **⚛️react + tailwind + shadcn UI集成**：使用最受欢迎的前端堆栈利用AI生成的代码：React，Tailwind和Shadcn UI
+-   **🚀一键UI出版**：单击即可立即发布并分享您的UI
+-   **📱响应式代码和预览**：实时在各种设备上预览您的UI，确保完美适应所有屏幕尺寸
+-   **🌓暗模式代码和预览**：轻松地生成带有内置的黑暗模式支持的AI驱动的UI代码，使您可以立即预览灯光模式
+-   **📸UI屏幕截图导出**：轻松出口并分享您的UI设计作为无缝协作的高质量屏幕截图
+-   **🛠️智能错误校正**：虽然Memfree的高级AI模型和复杂的代码规则努力为完善而努力，但可能会出现偶尔出现错误。我们的智能错误校正功能使您只需单击即可立即解决任何问题
 
-## MemFree 混合人工智能搜索工作流程
+## memfree Hybrid AI搜索工作流程
 
 <img alt="MemFree Hybrid AI Search workflow" src="frontend/public/memfree-hybrid-ai-search.webp" width="100%">
 
-## 变更日志
+## ChangElog
 
-[MemFree 变更日志](https://www.memfree.me/changelog)
+[备忘录](https://www.memfree.me/changelog)
 
 ## 技术堆栈
 
-[混合人工智能搜索完整技术堆栈](https://www.memfree.me/blog/hybrid-ai-search-tech-stack)
+[混合AI搜索完整的技术堆栈](https://www.memfree.me/blog/hybrid-ai-search-tech-stack)
 
-## 一键部署
+## 一单击部署
 
-[MemFree 一键部署指南](https://www.memfree.me/docs/one-click-deploy-ai-search)
+[Memfree一单击部署指南](https://www.memfree.me/docs/one-click-deploy-ai-search)
 
-### 1 使用 Zeabur 部署后端
+### 1通过Zeabur部署后端
 
 <a href="https://zeabur.com/templates/CE71SC?referralCode=memfree"><img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur"/></a>
 
-### 2 使用 Vercel 部署前端
+### 2用Vercel部署前端
 
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmemfreeme%2Fmemfree&env=UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN,OPENAI_API_KEY,MEMFREE_HOST,AUTH_SECRET,API_TOKEN&envDescription=https%3A%2F%2Fgithub.com%2Fmemfreeme%2Fmemfree%2Fblob%2Fmain%2Ffrontend%2Fenv-example&project-name=memfree&repository-name=memfree&demo-title=MemFree&demo-description=MemFree – Hybrid AI Search Engine&demo-url=https%3A%2F%2Fwww.memfree.me%2F&demo-image=https%3A%2F%2Fwww.memfree.me%2Fog.png&root-directory=frontend"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 
-### 3 使用 Netlify 部署前端
+### 3用Netlify部署前端
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/memfreeme/memfree&create_from_path=frontend/#UPSTASH_REDIS_REST_TOKEN
 =your_api_token&UPSTASH_REDIS_REST_URL=your_rest_url&SERPER_API_KEY=your_api_key&AUTH_SECRET=your_auth_key&OPENAI_API_KEY=your_api_key"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
-### 4 铁路部署
+### 4在铁路上部署
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/HPTFRR)
 
-### 5 使用 Fly.io 进行一键部署后端
+### 5一个命令用fly.io部署后端
 
--   [一条命令在 Fly.io 上部署 MemFree Vector](https://www.memfree.me/docs/deploy-memfree-fly-io)
+-   [一个命令在fly.io上部署memfree vector](https://www.memfree.me/docs/deploy-memfree-fly-io)
 
-### 6 在 Cloudflare 页面上部署 MemFree
+### 6在CloudFlare页面上部署模因
 
--   [如何将 MemFree 从 Vercel 迁移到 Cloudflare 下一页](https://www.memfree.me/blog/couldflare-next-on-page-edge)
+-   [如何将Memfree从Vercel迁移到CloudFlare下一页](https://www.memfree.me/blog/couldflare-next-on-page-edge)
 
-## 自托管安装
+## 自托管装置
 
 ### 先决条件
 
-#### 安装好
+#### 安装良好
 
     curl -fsSL https://bun.sh/install | bash
 
-> 未找到面包错误
+> Bun Not Found Error
 
-如果您收到与未找到 Bun 命令相关的错误。查看：[Bun 官方文档](https://bun.sh/docs/installation#checking-installation)
+如果找不到与bun命令有关的错误。查看：[bun官方文件](https://bun.sh/docs/installation#checking-installation)
 
 #### Upstash Redis
 
-在几秒钟内创建一个 Redis 兼容数据库：[Upstash Redis](https://upstash.com/docs/redis/overall/getstarted)
+在几秒钟内创建REDIS兼容数据库：[Upstash Redis](https://upstash.com/docs/redis/overall/getstarted)
 
-#### OpenAI API 密钥
+#### OpenAI API键
 
-获取 OpenAI API 密钥：[开放人工智能](https://platform.openai.com)
+获取OpenAI API密钥：[Openai](https://platform.openai.com)
 
-#### Serper API 密钥
+#### Serper API键
 
-获取 Serper API 密钥：[毒蛇](https://serper.dev/api-key)
+获取详细的API密钥：[详细](https://serper.dev/api-key)
 
 ### 前端
 
@@ -170,7 +170,7 @@ MemFree 配备强大的功能，可满足各种搜索和生产力需求：
 
     bun run dev
 
-### 矢量服务
+### 向量服务
 
     cd vector
 
@@ -184,10 +184,10 @@ MemFree 配备强大的功能，可满足各种搜索和生产力需求：
 
 ## 贡献
 
-您可以通过以下方式做出贡献：
+您可以做出贡献：
 
--   [打开一个问题](https://github.com/memfreeme/memfree/issues)如果您认为自己遇到了错误。
--   做一个[拉取请求](https://github.com/memfreeme/memfree/pulls)添加新功能/提高生活质量/修复错误。
+-   [打开一个问题](https://github.com/memfreeme/memfree/issues)如果您相信自己遇到了一个错误。
+-   做[拉请求](https://github.com/memfreeme/memfree/pulls)添加新功能/进行生活质量改进/修复错误。
 
 ## 感谢所有贡献者
 
@@ -197,25 +197,25 @@ MemFree 配备强大的功能，可满足各种搜索和生产力需求：
  </a>
 </p>
 
-## 帮助与支持
+## 帮助和支持
 
--   [MemFree 不和谐](https://discord.com/invite/7QqyMSTaRq)
+-   [memfree和不分符](https://discord.com/invite/7QqyMSTaRq)
 
 ## 路线图
 
--   [MemFree 路线图](https://www.memfree.me/roadmap)
+-   [无模式路线图](https://www.memfree.me/roadmap)
 
 ## 执照
 
-MemFree 由以下机构支持[内存自由](https://www.memfree.me/)并获得许可[和](https://github.com/memfreeme/memfree/blob/main/LICENSE).
+Memfree由[备忘录](https://www.memfree.me/)并获得许可[和](https://github.com/memfreeme/memfree/blob/main/LICENSE).
 
-## 由 MemFree 提供支持
+## 由Memfree提供动力
 
--   [PageGen - AI 页面生成器](https://pagegen.ai)
--   [MemFree - 混合人工智能搜索](https://www.memfree.me)
--   [StorySnap - 将图像变成故事](https://www.snapstoryai.com)
--   [React + Shadcn UI 预览](https://reactshadcn.com)
+-   [PageGen -AI页生成器](https://pagegen.ai)
+-   [memfree -Hybrid AI搜索](https://www.memfree.me)
+-   [Storysnap-将图像变成故事](https://www.snapstoryai.com)
+-   [React + Shadcn UI预览](https://reactshadcn.com)
 
-## 明星历史
+## 星历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=memfreeme/memfree&type=Date)](https://star-history.com/#memfreeme/memfree&Date)
